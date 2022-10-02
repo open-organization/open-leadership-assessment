@@ -3,7 +3,7 @@ Part of the Open Leadership Assessment
 
 This survey assesses the degree to which you are open in your leadership mindsets and behaviors. Based on the [Open Leadership Definition](https://theopenorganization.org/definition/open-leadership-definition/), the survey determines how your leadership style reflects the open organization characteristics of transparency, inclusivity, adaptability, collaboration, and community.
 
-> **Note**
+> **Note**  
 > If you would like your colleagues and teammates to assess your leadership style, please ask them to use the Open Leadership Feedback Survey.
 
 ## Instructions  
@@ -20,7 +20,7 @@ Read the statements in each section of this survey and indicate the degree to wh
 
 Completing this survey will require approximately 30 minutes. 
 
-> **Note**
+> **Note**  
 > If you are using an electronic assessment tool to administer this assessment, you may wish to notify respondents  that the tool allows backwards navigation and/or saving the survey before submitting it. Include text like: `Note that you can save your progress and return to it later using the "Resume later" link in the top right corner of your screen.`]
 
 ## Transparency 

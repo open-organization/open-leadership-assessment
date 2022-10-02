@@ -23,12 +23,12 @@ Recommended administration protocol:
 1. Both the leader and team member respondents compare scores. They may wish to do so through a third party to maintain anonymity.
 1. The leader and team members note areas of agreement, disparity, and discrepency between scores on the **self survey** and **feedback survey** and discuss how the results may influence a leader's mindsets and behaviors in the future.
 
-> **Note**
+> **Note**  
 > The Open Leadership Assessment is a tool for **generating discussion among leaders and their teammates**. As such, it produces best results when *both* leaders *and* their teams agree to use it and share their results.
 
 ## Interpreting the results
 
 When you have completed the Open Leadership Assessment, you may wish to use the included Guide to Interpreting Results to better understand the implications of your scores and begin charting your own path to becoming a more open leader.
 
-> **Warning**
+> **Warning**  
 > The Open Leadership Assessment is a tool designed to facilitate discussion about leadership and organizational culture. It is not intended to be used as the basis for organizational policy decisions or for decisions related to hiring or promotion.

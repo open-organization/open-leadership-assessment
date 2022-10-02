@@ -3,7 +3,7 @@ Part of the Open Leadership Assessment
 
 ## Instructions
 
-Congratulations on completing the Open Leadership Assessment. Please take a moment to tally your score and reflect on your next steps as an open leader.
+Congratulations on completing the Open Leadership Assessment. Please take a moment to tally your scores and reflect on your next steps as an open leader.
 
 To confirm your score on the Open Leadership Assessment, add the numerical values of your responses to all ten survey items in each section. By doing this, you will receive a score out of 50 total points per section.
 
@@ -26,5 +26,4 @@ To confirm your score on the Open Leadership Assessment, add the numerical value
 * [Resource 1]
 * [Resource 2]
 * [Resource 3]
-
 
