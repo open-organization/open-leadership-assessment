@@ -1,16 +1,18 @@
-# The Open Leadership Assessment
+# The Open Leadership Assessment project descriptions
 
-## Short description
+## Short descriptions
 
-The Open Leadership Assessment is a tool for determining whether people leading groups, teams, or other organizations are acting in alignment with open organization characteristics and fostering conversations about organizational culture.
+* The Open Leadership Assessment is a tool for determining whether people leading groups, teams, or other organizations are acting in alignment with [open organization characteristics](https://theopenorganization.org/definition/open-organization-definition/) and fostering conversations about organizational culture.
+
+* The Open Leadership Assessment is a tool for determining the extent to which people leading groups, teams, or other organizations are doing so with [transparency, inclusivity, adaptability, collaboration, and community](https://theopenorganization.org/definition/open-leadership-definition/) in mind. The goal of the tool is to foster conversations about organizational culture.
 
 ## Standard description
 
-The Open Leadership Assessment is a tool for determining whether people leading groups, teams, or other organizations are acting in alignment with open organization characteristics and fostering conversations about organizational culture. The tool consists of a pair of survey-style instruments offering leaders and their teams a means of candidly analyzing and discussing the mindsets and behaviors that guide how they work. Designed for use in conjunction with both the Open Leadership Definition and the Open Organization Definition, the Open Leadership Assessment is openly licensed to foster community contribution and enhancement.
+The Open Leadership Assessment is a tool for determining whether people leading groups, teams, or other organizations are acting in alignment with open organization characteristics and fostering conversations about organizational culture. The tool consists of a pair of survey-style instruments offering leaders and their teams a means of candidly analyzing and discussing the mindsets and behaviors that guide how they work. Designed for use in conjunction with both the [Open Leadership Definition](https://theopenorganization.org/definition/open-leadership-definition/) and the [Open Organization Definition](https://theopenorganization.org/definition/open-organization-definition/), the Open Leadership Assessment is openly licensed to foster community contribution and enhancement.
 
 ## Extended description
 
-The Open Leadership Assessment is a tool for determining whether people leading groups, teams, or other organizations are acting in alignment with characteristics outlined in both the Open Leadership Definition and Open Organization Definition.
+The Open Leadership Assessment is a tool for determining whether people leading groups, teams, or other organizations are acting in alignment with characteristics outlined in both the [Open Leadership Definition](https://theopenorganization.org/definition/open-leadership-definition/) and [Open Organization Definition](https://theopenorganization.org/definition/open-organization-definition/).
 
 The tool consists of a pair of survey-style instruments offering leaders and their teams a means of candidly analyzing and discussing the mindsets and behaviors that guide how they work. Leaders complete a survey while reflecting on their leadership practices; at the same time, their teammates complete a similar survey about the leader. Comparing scores from each survey creates opportunities for team conversation and collective improvement. Teams can use the included Guide to Interpreting Results to foster and structure these conversations.
 
