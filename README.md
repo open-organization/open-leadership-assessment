@@ -32,3 +32,9 @@ When you have completed the Open Leadership Assessment, you may wish to use the 
 
 > **Warning**  
 > The Open Leadership Assessment is a tool designed to facilitate discussion about leadership and organizational culture. It is not intended to be used as the basis for organizational policy decisions or for decisions related to hiring or promotion.
+
+## Contact and contribute
+
+To contribute to the Open Leadership Assessment, [open or respond to an issue](https://github.com/open-organization/open-leadership-assessment/issues). Contributions to the project are accepted under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+With questions, comments, or individual requests, please contact project maintainer Heidi Hess von Ludewig at <a href="mailto:heidi@theopenorganization.org">heidi@theopenorganization.org</a>.
